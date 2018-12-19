@@ -1,0 +1,12 @@
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\obj\Debug\HarcosokApp.Properties.Resources.resources
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\obj\Debug\HarcosokApp.csproj.GenerateResource.cache
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\obj\Debug\HarcosokApp.csproj.CoreCompileInputs.cache
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\obj\Debug\HarcosokApp.csprojAssemblyReference.cache
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\bin\Debug\HarcosokApp.exe.config
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\bin\Debug\HarcosokApp.exe
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\bin\Debug\HarcosokApp.pdb
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\bin\Debug\MySql.Data.dll
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\obj\Debug\HarcosokApp.csproj.CopyComplete
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\obj\Debug\HarcosokApp.exe
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\obj\Debug\HarcosokApp.pdb
+D:\Users\geri\Desktop\HarcosokApp\HarcosokApp\HarcosokApp\obj\Debug\HarcosokApplication.Form1.resources
